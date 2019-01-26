@@ -24,13 +24,13 @@ public class UserController {
     }
 
 //    @RequestMapping("/list")
-//////    public String list(Model model){
-//////        //查询用户数据
-//////        List<User> users = userService.getUserList();
-//////        model.addAttribute("users",users);
-//////        return "user/list";
-//////    }
-    @GetMapping
+//    public String list(Model model){
+//        //查询用户数据
+//        List<User> users = userService.getUserList();
+//        model.addAttribute("users",users);
+//        return "user/list";
+//    }
+    @GetMapping("/list")
     public ModelAndView list(Model model){
         List<User> users = userService.getUserList();
         model.addAttribute("users",users);

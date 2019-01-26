@@ -1,0 +1,80 @@
+GET http://localhost:8080/list
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-01-26T110932.200.html
+
+###
+
+GET http://localhost:8080/list
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-01-26T110809.200.html
+
+###
+
+GET http://localhost:8080/list
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-01-26T110735.200.txt
+
+###
+
+GET http://localhost:8080/list
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-01-26T110427.500.json
+
+###
+
+GET http://localhost:8080/list
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-01-26T110425.500.json
+
+###
+
+GET http://localhost:8080/list/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-01-26T110420.500.json
+
+###
+
+GET http://localhost:8080/list
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-01-26T110416.500.json
+
+###
+
+GET http://localhost:8080/list
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-01-26T110315.500.json
+
+###
+
+GET http://localhost:8080/list
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-01-23T102623.200.html
+
+###
+
+GET http://localhost:8080/resources
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-01-23T102601.404.json
+
+###
+
